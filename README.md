@@ -1,20 +1,21 @@
-# Project Title
+# Teknologi Web Multimedia
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Biodata](#Biodata)
+- [About](#About)
+<!-- - [Usage](#usage)
+- [Contributing](../CONTRIBUTING.md) -->
 
-## About <a name = "about"></a>
+## Biodata <a name = "Biodata"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+- Fullname : Muhammad Hilmi Nurullah
+- NRP : 5322600019
 
-## Getting Started <a name = "getting_started"></a>
+## About <a name = "About"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+"This repository is created for the sole purpose of learning and educational endeavors. It serves as a space for exploration, experimentation, and the acquisition of knowledge in various domains."
+<!-- 
 ### Prerequisites
 
 What things you need to install the software and how to install them.
@@ -43,4 +44,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Add notes about how to use the system. -->
