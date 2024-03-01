@@ -15,6 +15,8 @@
 ## About <a name = "About"></a>
 
 "This repository is created for the sole purpose of learning and educational endeavors. It serves as a space for exploration, experimentation, and the acquisition of knowledge in various domains."
+
+> "May our hard work pay off.."
 <!-- 
 ### Prerequisites
 
