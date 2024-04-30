@@ -151,6 +151,5 @@
     </script>
 
 </body>
-</body>
 
 </html>
